@@ -1,5 +1,5 @@
 # landingPage
-https://github.com/HappySonia/landingPage
+https://happysonia.github.io/landingPage/
 
 Multi-section Landing page.
 
